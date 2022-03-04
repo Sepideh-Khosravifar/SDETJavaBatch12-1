@@ -16,9 +16,5 @@ public class Recap {
         System.out.println(str.substring(str.indexOf("#")+1));
       System.out.println(str.substring(12,23));
       System.out.println(str.substring(str.indexOf("#")+1,str.indexOf("#")+1+10));
-
-
-
-
     }
 }

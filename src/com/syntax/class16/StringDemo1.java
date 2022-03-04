@@ -8,6 +8,5 @@ public class StringDemo1 {
         System.out.println(str.replace(" ","_"));
         System.out.println(str.replace(" ","")); //removal
         System.out.println(str.replace("12","13"));
-
     }
 }

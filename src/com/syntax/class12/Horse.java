@@ -32,9 +32,9 @@ public class Horse {
 		lillysHorse.age=20;
 		lillysHorse.weight=400;
 		lillysHorse.run();
-	
 		lillysHorse.printCompleteInfo();
 		System.out.println("*************");
+
 		Horse mrAsHorse=new Horse();
 		mrAsHorse.name="Tuzik";
 		mrAsHorse.breed="Mustang";

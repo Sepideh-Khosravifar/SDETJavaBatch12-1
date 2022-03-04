@@ -21,6 +21,7 @@ public class Greeting {
 		// TODO Auto-generated method stub
 		Greeting greeter = new Greeting();
 		greeter.sayHelloNNumberOfTimes("Emili",10);
+		greeter.sayHello("Mike");
 	}
 
 }
