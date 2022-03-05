@@ -18,6 +18,7 @@ public static void main(String[] args) {
     student1.name="Yazgul";
     student1.id="123";
     Students.numberOfStudents++;
+    //System.out.println(Students.numberOfStudents++);
 
     Students student2=new Students();
     student2.name="Zuhoor";

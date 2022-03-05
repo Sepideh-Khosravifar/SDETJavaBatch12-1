@@ -1,4 +1,4 @@
-package com.review.class13;
+package com.syntax.class13;
 
 public class MethodsDemo3 {
 
@@ -12,7 +12,6 @@ public class MethodsDemo3 {
 	}
 
 	int returnTheSameNumber(int number) {
-
 		return number;
 	}
 	
