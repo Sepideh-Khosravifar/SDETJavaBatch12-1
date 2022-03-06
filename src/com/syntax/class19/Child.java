@@ -8,6 +8,6 @@ public class Child extends Parent {
        // System.out.println(age);
         System.out.println(weight);
         System.out.println(color);
-        // break till 2:00
+        // break till 2:05
     }
 }
