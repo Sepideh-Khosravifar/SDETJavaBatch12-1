@@ -9,6 +9,7 @@ public class MethodOverloadDemo {
     static void add(double num1, double num2) {
         System.out.println("M2");
         System.out.println(num1 + num2);
+
     }
 
     static void add(String num1, String num2) {
