@@ -26,7 +26,7 @@ public class BrowserTester {
         ie.testThePage();
         ie.closeBrowser();*/
 
-        Browser[] browsers={new GoogleChrome(),new FireFox(),new Safari(),new IE()};
+        Browser[] browsers = {new GoogleChrome(), new FireFox(), new Safari(), new IE()};
 
         for (Browser b : browsers) {
             b.openBrowser();
@@ -35,7 +35,7 @@ public class BrowserTester {
             b.closeBrowser();
         }
 
-        // break till
+        // break till 11:45
 
 
     }

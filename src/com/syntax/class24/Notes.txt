@@ -16,3 +16,8 @@ Rules:
     method can't be overridden as it is static.
     6) We can't have different return type in the child class it must be same as of parent
     class.
+OOPS Main pillars:
+1) Inheritance(code re-usability)
+2) Polymorphism(less code dynamic code)
+3) Abstraction ()
+4) Encapsulating
