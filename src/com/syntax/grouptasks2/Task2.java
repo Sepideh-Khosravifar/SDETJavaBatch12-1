@@ -1,4 +1,4 @@
-package com.syntax.class27;
+package com.syntax.grouptasks2;
 
 
 abstract class Marks{
