@@ -2,7 +2,7 @@ package com.syntax.reviewclass10;
 class GrandParent{
     String name;
     GrandParent(String name){
-        System.out.println("Grand Parent");
+       // System.out.println("Grand Parent");
         this.name=name;
     }
     void printName(){
@@ -12,14 +12,14 @@ class GrandParent{
 public class Parent extends GrandParent{
     Parent(String name){
        super(name);
-        System.out.println("Parent");
+       // System.out.println("Parent");
     }
 
 }
 class Child extends Parent{
     Child(String name){
         super(name);
-        System.out.println("Child");
+       // System.out.println("Child");
     }
 }
 class Tester{
