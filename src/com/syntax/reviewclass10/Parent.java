@@ -10,8 +10,10 @@ class GrandParent{
     }
 }
 public class Parent extends GrandParent{
+
     Parent(String name){
        super(name);
+       printName();
        // System.out.println("Parent");
     }
 
