@@ -18,6 +18,5 @@ public class MapsDemo2 {
         grocers.putAll(vegetables);
         System.out.println(grocers);
 
-
     }
 }
