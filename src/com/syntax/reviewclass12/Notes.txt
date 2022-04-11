@@ -1,0 +1,6 @@
+Encapsulation in Java:
+    Encapsulation is hiding the class variables by making them private and providing the
+    getter setter methods.
+Benefits:
+    Better control over the data and security.
+
